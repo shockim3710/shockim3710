@@ -7,7 +7,7 @@
 <a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 </div>
 <br/>
-## ▎ㅇㄹ
+## ㄴㄴ
 <div>
 <a href="mailto:shockim3710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
