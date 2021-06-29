@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=275FEC&height=130&text=김승후's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0069DF&height=130&text=김승후's%20Github&fontSize=40)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
