@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=094AAA&height=130&text=김승후's%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2A62EC&height=130&text=김승후's%20GitHub&fontSize=40)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -14,4 +14,4 @@
 <a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
-　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&bg_color=DEG,49C1FF,094AAA&title_color=FFFFFF&text_color=FFFFFF)](https://solved.ac/shockim3710)
+　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&bg_color=DEG,49C1FF,164094&title_color=FFFFFF&text_color=FFFFFF)](https://solved.ac/shockim3710)
