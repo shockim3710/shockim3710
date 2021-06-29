@@ -14,5 +14,4 @@
 <a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
-　　　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=default)](https://github.com/shockim3710)
-</div>
+　　　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&bg_color=DEG,COLOR1,COLOR2,COLOR3)](https://solved.ac/shockim3710)
