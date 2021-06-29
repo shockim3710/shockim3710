@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=김승후's%20GITHUB&fontSize=60)
 
 ### STACK
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/Python-20c997?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### ME
 - 
