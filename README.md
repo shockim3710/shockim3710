@@ -10,8 +10,3 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=default)](https://github.com/shockim3710)
 </div>
-
-
-
-
-
