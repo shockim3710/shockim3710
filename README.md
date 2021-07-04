@@ -13,7 +13,7 @@
 <a href="mailto:shockim3710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
-<a href="https://programmers.co.kr/" target="_blank"><img src="https://img.shields.io/badge/Product Hunt-181717?style=flat&logo=programmers&logoColor=white"/></a>
+<a href="https://programmers.co.kr/" target="_blank"><img src="https://img.shields.io/badge/programmers-181717?style=flat&logo=Product Hunt&logoColor=white"/></a>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
 　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&bg_color=DEG,E66346,904E95&title_color=FFFFFF&text_color=FFFFFF)](https://solved.ac/shockim3710)
