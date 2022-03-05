@@ -25,4 +25,5 @@
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
 <a href="https://programmers.co.kr" target="_blank"><img src="https://img.shields.io/badge/programmers-181717?style=flat&logo=ProductHunt&logoColor=white"/></a>
 
+![Seung Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockim3710&show_icons=true&theme=prussian)
 　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&bg_color=DEG,E66346,904E95&title_color=FFFFFF&text_color=FFFFFF)](https://solved.ac/shockim3710)
