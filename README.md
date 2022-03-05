@@ -30,13 +30,13 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white"/></a>
 
 
-<h3 align="center">•••
+<h3 align="center">•••</h3>
 
 <a href="mailto:shockim3710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 <p align="center"><a href="https://solved.ac/shockim3710">
 <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=shockim3710" /></p>
-<a href="https://programmers.co.kr" target="_blank"><img src="https://img.shields.io/badge/programmers-181717?style=flat&logo=ProductHunt&logoColor=white"/></a></h3>
+<a href="https://programmers.co.kr" target="_blank"><img src="https://img.shields.io/badge/programmers-181717?style=flat&logo=ProductHunt&logoColor=white"/></a>
 <p align="center">
 <a href="https://github.com/shockim3710/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shockim3710&show_icons=true&theme=prussian" />
