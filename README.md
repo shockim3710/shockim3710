@@ -15,8 +15,13 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?&style=for-the-badge&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
+
+
+
 
 <h3 align="center">•••</h3>
 
