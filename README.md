@@ -1,19 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=176DED&height=130&text=김승후's%20GitHub&fontSize=40)
 
 <div align="center">
+# 💪Skills
+### Platforms & Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572b6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=prussian)](https://github.com/shockim3710/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=prussian)](https://github.com/shockim3710/github-readme-stats)
+
+### Tools
 <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&style=for-the-badge&logo=Visual Studio&logoColor=white"/></a>
