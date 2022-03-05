@@ -32,7 +32,7 @@
 
 <h3 align="center">•••</h3>
 
-<p align="center">
+<div align="center">
 <a href="mailto:shockim3710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/shockim3710" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
@@ -41,4 +41,4 @@
 <a href="https://github.com/shockim3710/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shockim3710&show_icons=true&theme=prussian" />
 </a>
-</p>
+
