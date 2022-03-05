@@ -13,9 +13,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/></a>
 
+<p align="center">
 <a href="https://github.com/shockim3710/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=prussian" />
 </a>
+</p>
 
 
 ### Tools
@@ -35,7 +37,8 @@
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=shockim3710)](https://solved.ac/shockim3710)
 <a href="https://programmers.co.kr" target="_blank"><img src="https://img.shields.io/badge/programmers-181717?style=flat&logo=ProductHunt&logoColor=white"/></a>
 
-
+<p align="center">
 <a href="https://github.com/shockim3710/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shockim3710&show_icons=true&theme=prussian" />
 </a>
+</p>
