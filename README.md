@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/CSS-1572b6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=prussian)](https://github.com/shockim3710/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"/></a>
@@ -19,9 +20,7 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Postman-#FF6C37?&style=for-the-badge&logo=Postman&logoColor=white"/></a>
-
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white"/></a>
 
 
 <h3 align="center">•••</h3>
@@ -32,4 +31,3 @@
 <a href="https://programmers.co.kr" target="_blank"><img src="https://img.shields.io/badge/programmers-181717?style=flat&logo=ProductHunt&logoColor=white"/></a>
 
 ![Seung Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shockim3710&show_icons=true&theme=prussian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact)](https://github.com/shockim3710/github-readme-stats)
