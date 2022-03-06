@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=176DED&height=230&text=SeungHu%20Kim&fontSize=70)
-# ✨ ABOUT ME 
+# ✨ About Me 
 안녕하세요 👋
 
 꿈을위해 공부중인 김승후입니다.
