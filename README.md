@@ -28,13 +28,15 @@
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/></a>
 
 
+<!--
 
 <p align="center">
   <a href="https://github.com/shockim3710">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shockim3710&layout=compact&theme=prussian" />
 </a>
 </p>
-　  
+
+-->　  
 
 
 
