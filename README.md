@@ -2,7 +2,7 @@
 # ✨ About Me 
 안녕하세요 👋
 
-꿈을 위해 공부 중인 김승후입니다.
+더 나은 개발을 위해 끊임없이 노력하는 김승후입니다.
   
   
   
@@ -38,6 +38,30 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white"/></a>
+
+
+
+# 💥 Project
+| PERIOD | PROJECT NAME | ORGANIZATION |
+|:------:|:------:|:------:|
+| 2021.02.16 ~ 2021.02.23 | [좋은 첫인상을 위한 표정 코치 인공지능 (LOOKie_AI)</br>- 팀 IM](https://github.com/shockim3710/LOOKie_AI) | 부산정보산업진흥원, </br>인공지능그랜드ICT연구센터 |
+| 2021.03.28 ~ 2021.06.03 | [학과 홈페이지 개선하기</br>- 팀 승무는 못말려](https://github.com/shockim3710/renewal-major-website) | 인터넷프로그래밍 |
+| 2021.09.08 ~ 2021.12.15 | [지역경제를 살리기 위한 숨은 명소 사진 퀴즈 앱 (Catch B)</br>- 팀 꿀벌](https://github.com/shockim3710/CatchB) | 모바일컴퓨팅 |
+| 2021.11.13 ~ 2021.12.12 | [코로나 환자 관리 프로그램</br>- 3분반 6조](https://github.com/shockim3710/COVID-19_patient_management) | 데이터베이스응용 |
+| 2022.03.10 ~ 2022.06.09 | [앱 ‘지금이약’과 메디슨 박스 </br>- 건강해조](https://github.com/shockim3710/nowMEDI) | 캡스톤디자인II |
+| 2022.05.02 ~ 2022.06.15 | [스마트 팜 (Smart Farm) </br>- 1조]() | 임베디드소프트웨어 |
+
+
+# 🏆 Awards
+
+
+
+# 📖 Education
+
+
+
+# 🎫 License
+
 
 
 <h3 align="center">•••</h3>
