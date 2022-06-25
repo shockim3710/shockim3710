@@ -53,15 +53,21 @@
 
 
 # 🏆 Awards
-
+| DATE | AWARD NAME | ORGANIZATION |
+|:------:|:------:|:------:|
+| 2022.05.13 | 춘계학술대회 </br>- 인공지능 캡스톤디자인 경진대회 최우수상 | 한국멀티미디어학회, </br>인공지능그랜드ICT연구센터 |
 
 
 # 📖 Education
-
-
+| PERIOD | EDUCATION NAME | ORGANIZATION |
+|:------:|:------:|:------:|
+| 2021.01.25 ~ 2021.02.23 | 파이썬 기반 인공지능 (SLP) 기본교육</br>(160시간) | 부산정보산업진흥원, </br>인공지능그랜드ICT연구센터 |
+| 2021.11.03 ~ 2021.11.05 | SW Testing Foundation 교육</br>(21시간) | 부산정보산업진흥원 |
 
 # 🎫 License
-
+| DATE | LICENSE NAME | ORGANIZATION |
+|:------:|:------:|:------:|
+| 2017.11.24 | Microsoft Office Specialist 2010 Master | Microsoft |
 
 
 <h3 align="center">•••</h3>
