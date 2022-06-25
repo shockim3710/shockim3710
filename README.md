@@ -11,15 +11,23 @@
 # 💪 Skills
 ### ⚒ Languages & Platforms
 
-<img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572b6?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/></a>
+
+
 
 <p align="center">
   <a href="https://github.com/shockim3710">
@@ -38,6 +46,9 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   
   
   
