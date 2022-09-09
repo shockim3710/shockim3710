@@ -22,7 +22,10 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-007396?&style=for-the-badge&logo=JPA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"></a>
+<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/></a>
@@ -65,6 +68,7 @@
 | 2021.11.13 ~ 2021.12.12 | [코로나 환자 관리 프로그램</br>- 3분반 6조](https://github.com/shockim3710/COVID-19_patient_management) | 데이터베이스응용 |
 | 2022.03.10 ~ 2022.06.09 | [앱 ‘지금이약’과 메디슨 박스 </br>- 건강해조](https://github.com/shockim3710/nowMEDI) | 캡스톤디자인II |
 | 2022.05.02 ~ 2022.06.15 | 스마트 팜 (Smart Farm) </br>- 1조 | 임베디드소프트웨어 |
+| 2022.07.25 ~ 2022.09.08 | [SSG.com 클론코딩 </br>- 팀 조조 (1조)](https://github.com/shockim3710/jojo_01_cloneproject_back) | 신세계아이앤씨 스파로스 아카데미 1기 |
   
   
   
@@ -74,6 +78,7 @@
 | DATE | AWARD NAME | ORGANIZATION |
 |:------:|:------:|:------:|
 | 2022.05.13 | 춘계학술대회 : 인공지능 캡스톤디자인 경진대회 최우수상</br>- 딥러닝을 통한 시각장애인 점자블록 음성 안내 | 한국멀티미디어학회, </br>인공지능그랜드ICT연구센터 |
+| 2022.09.08 | 1차 클론코딩 팀 프로젝트 우수상 | 신세계아이앤씨 스파로스 아카데미 1기 |
   
   
   
@@ -84,6 +89,7 @@
 |:------:|:------:|:------:|
 | 2021.01.25 ~ 2021.02.23 | 파이썬 기반 인공지능 (SLP) 기본교육</br>(160시간) | 부산정보산업진흥원, </br>인공지능그랜드ICT연구센터 |
 | 2021.11.03 ~ 2021.11.05 | SW Testing Foundation 교육</br>(21시간) | 부산정보산업진흥원 |
+| 2022.07.18 ~ 2022.11.18 | 스파로스 아카데미 (Spharos Academy) 1기 | 신세계아이앤씨 |
   
   
   
