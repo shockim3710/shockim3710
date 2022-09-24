@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&style=for-the-badge&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?&style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white"/></a>
@@ -68,7 +69,7 @@
 | 2021.11.13 ~ 2021.12.12 | [코로나 환자 관리 프로그램</br>- 3분반 6조](https://github.com/shockim3710/COVID-19_patient_management) | 데이터베이스응용 |
 | 2022.03.10 ~ 2022.06.09 | [앱 ‘지금이약’과 메디슨 박스 </br>- 건강해조](https://github.com/shockim3710/nowMEDI) | 캡스톤디자인II |
 | 2022.05.02 ~ 2022.06.15 | 스마트 팜 (Smart Farm) </br>- 1조 | 임베디드소프트웨어 |
-| 2022.07.25 ~ 2022.09.08 | [SSG.com 클론코딩 </br>- 팀 조조 (1조)](https://github.com/shockim3710/jojo_01_cloneproject_back) | 신세계아이앤씨</br>스파로스 아카데미 1기 |
+| 2022.07.25 ~ 2022.09.08 | [SSG.COM 클론코딩 </br>- 팀 조조 (1조)](https://github.com/shockim3710/jojo_01_cloneproject_back) | 신세계아이앤씨</br>스파로스 아카데미 1기 |
   
   
   
