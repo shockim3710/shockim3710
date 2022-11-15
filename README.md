@@ -68,8 +68,9 @@
 | 2021.09.08 ~ 2021.12.15 | [지역경제를 살리기 위한 숨은 명소 사진 퀴즈 앱 (Catch B)</br>- 팀 꿀벌](https://github.com/shockim3710/CatchB) | 모바일컴퓨팅 |
 | 2021.11.13 ~ 2021.12.12 | [코로나 환자 관리 프로그램</br>- 3분반 6조](https://github.com/shockim3710/COVID-19_patient_management) | 데이터베이스응용 |
 | 2022.03.10 ~ 2022.06.09 | [앱 ‘지금이약’과 메디슨 박스 </br>- 건강해조](https://github.com/shockim3710/nowMEDI) | 캡스톤디자인II |
-| 2022.05.02 ~ 2022.06.15 | 스마트 팜 (Smart Farm) </br>- 1조 | 임베디드소프트웨어 |
+| 2022.05.02 ~ 2022.06.15 | [스마트 팜 (Smart Farm) </br>- 1조](https://github.com/shockim3710/smart-farm) | 임베디드소프트웨어 |
 | 2022.07.25 ~ 2022.09.08 | [SSG.COM 클론코딩 </br>- 팀 조조 (1조)](https://github.com/shockim3710/jojo_01_cloneproject_back) | 신세계아이앤씨</br>스파로스 아카데미 1기 |
+| 2022.09.13 ~ 2022.11.11 | [부산 여행 코스 공유 커뮤니티 (CosMost) </br>- 팀 NiceCream](https://github.com/CosMost-BE) | 신세계아이앤씨</br>스파로스 아카데미 1기 |
   
   
   
